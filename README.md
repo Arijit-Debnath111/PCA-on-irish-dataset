@@ -1,1 +1,1 @@
-# PCA-on-irish-dataset
+# Factor analysis-on-irish-dataset
